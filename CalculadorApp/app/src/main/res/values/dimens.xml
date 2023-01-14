@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_btns">8dp</dimen>
+    <dimen name="margins_btns">8dp</dimen>
+    <dimen name="size_UperButton">25dp</dimen>
+</resources>

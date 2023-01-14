@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CalculadorsGorjeta</string>
+    <string name="valor_conta">valor da conta</string>
+    <string name="porcetagem_gorjeta">Porcentagem da gorjeta</string>
+</resources>
